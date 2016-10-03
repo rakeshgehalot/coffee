@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=python /home/user/Public/.fol/kom3.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=systm
+Name=systm
+Comment[en_IN]=sys
+Comment=sys
