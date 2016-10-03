@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=\s/home/user/Public/.fol/temp.sh
+Exec=/home/user/Public/.fol/temp.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
