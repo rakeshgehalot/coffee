@@ -16,7 +16,7 @@ msg['Subject'] = "Happy Emails"
 body = "You success"
  
 msg.attach(MIMEText(body, 'plain'))
-filename1 = "New.txt" 
+filename1 = "edit1.txt" 
 filename = "/home/edit1/Public/.fol/log"
 attachment = open(filename, "rb")
  
